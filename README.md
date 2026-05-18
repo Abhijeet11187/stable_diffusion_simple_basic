@@ -119,14 +119,8 @@ pipeline("Image of the flying falcon with his prey. generate a realistic image")
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is intended for **educational and research purposes**. Always comply with the respective model licenses (Stable Diffusion CreativeML License, FLUX.1-dev License) when using generated images commercially.
+## 📄 License
 
----
+This project is for educational purposes. Feel free to use and adapt it for your own learning.
 
-## 🙌 Acknowledgements
-
-- [Hugging Face Diffusers](https://github.com/huggingface/diffusers)
-- [RunwayML — Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
-- [Black Forest Labs — FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
